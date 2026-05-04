@@ -78,6 +78,8 @@ The Duplicated (preliminary, yet to be reduced if any mistakes) are listed below
 
 **********
 
+✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+فهرست نام های تکراری
 
 The Duplicate list
 The first number if HRANA appendix ID of that name

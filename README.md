@@ -35,6 +35,8 @@ https://www.en-hrana.org/the-crimson-winter-a-50-day-record-of-irans-2025-2026-n
 روش آنالیز اینجاست
 https://github.com/TruthIran/HRANA_Report_Iranmassacre/blob/68c65d0b81f38ba8a3f8577e055cca79ddc6acff/Persian_Readme
 
+فایل Excel اسامی هرانا برای بررسی همگانی
+https://github.com/TruthIran/HRANA_Report_Iranmassacre/blob/3f6d029fa55fcea3801717ca25d25965b563ef6b/cleaned_deceased_adults_HRANA.xlsx
 *************************
 
 Preamble

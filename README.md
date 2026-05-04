@@ -43,5 +43,5 @@ Our question is simple, are there 400 to 500 duplicate names in this report", or
 
 Also, while HRANA historically makes great efforts to report based on evidence, mistakes or incomplete or duplicated info may happen in documanting crimes of Iranian government, specially and sadly in this magnitude. Hence the other goal of this work is to help HRANA corretc any such findings in their report.
 
-Method and results lsited below:
-
+Method and results listed below in English:
+https://github.com/TruthIran/HRANA_Report_Iranmassacre/blob/107b25bb7a4294012128820f0954df9be71e8e26/English_Readme

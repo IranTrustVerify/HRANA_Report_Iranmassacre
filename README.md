@@ -35,6 +35,8 @@ https://www.en-hrana.org/the-crimson-winter-a-50-day-record-of-irans-2025-2026-n
 روش آنالیز اینجاست
 https://github.com/TruthIran/HRANA_Report_Iranmassacre/blob/68c65d0b81f38ba8a3f8577e055cca79ddc6acff/Persian_Readme
 
+*************************
+
 Preamble
 
 This Project Looks into #Parisa_Babaali, NIAC's New York Chapter lead, and her claims about HRNA report of #IranMassacre 
@@ -75,7 +77,8 @@ The Preliminary Verdict, the 400 to 500 Ms BaBaali claims is far from accurate
 The Duplicated (preliminary, yet to be reduced if any mistakes) are listed below for cross examination
 
 **********
-✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+
+
 The Duplicate list
 The first number if HRANA appendix ID of that name
 

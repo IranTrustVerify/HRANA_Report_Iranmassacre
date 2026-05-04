@@ -187,11 +187,11 @@ The first number if HRANA appendix ID of that name
 1264	Mansour Shahsavari	Aligudarz (in front of Seminary)	Lorestan	January 8, 2026 (1404/10/18)
 2835	Mansour Shahsavari	Aligoudarz	Lorestan	Unknown
 
-******* tripple mention ******* 
+✅ tripple mention  
 339	  Masoud Faghihzadeh	Isfahan (Khaghani Area)	Isfahan	Unknown
 1219	Masoud Faghihzadeh	Isfahan (Khaghani)	Isfahan	January 8, 2026 (1404/10/18)
 2014	Masoud Faghihzadeh	Isfahan	Isfahan	Unknown
-******* 
+
 
 616	  Mehdi Jafari	Unknown		
 3870	Mehdi Jafari	Karaj (Mehrshahr)	Alborz	January 9, 2026 (1404/10/19)
